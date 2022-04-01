@@ -1,1 +1,13 @@
+#include <age_calculator_operations.h>
+
+int add(int birth date, int present date)
+{
+    return birth date + present date;
+}
+/*
+int subtract(int birth date, int present date)
+{
+    return birth date - present date;
+}*/
+
 
