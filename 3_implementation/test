@@ -1,1 +1,31 @@
 
+#include "unity.h"
+#include <age_calculator_operations.h>
+
+#include <age_calculator_operations.h>
+
+#define PROJECT_NAME    "Age_Calculator"
+
+void test_add(void);
+
+void setUp(){}
+
+void tearDown(){}
+
+
+int main()
+{
+
+  UNITY_BEGIN();
+
+  RUN_TEST(test_add);
+ 
+  return UNITY_END();
+}
+
+void test_add(void) {
+  TEST_ASSERT_EQUAL(24-10-2001, add(24-10-2001, 20-10-2099));
+  
+ 
+  TEST_ASSERT_EQUAL(24-10-2001, add(24-10-2001, 20-10-2099));
+}
