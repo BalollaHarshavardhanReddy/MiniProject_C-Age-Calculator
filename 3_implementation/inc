@@ -1,1 +1,33 @@
 
+ * @file Age_calculator_operations.h
+ * @author BalollaHarshavardhanReddyG ()
+ * @brief AGE_Calculator application with 4 mathematical operations
+ * @version 0.1
+ * @date 2021-12-30
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+#ifndef _AGE__CALCULATOR_OPERATIONS_H__
+#define _AGE__CALCULATOR_OPERATIONS_H__
+
+#include <stdio.h>
+#include <time.h>
+
+/**
+*  adds the birthdate and month and year and returns the result
+* @param[in] birth date started
+* @param[in] present date
+* @return Result of birth starting date1 + present date
+*/
+int add(birth date started , present date);
+
+/**
+*  subtracts the operand1, operand2 and returns the result
+* @param[in] birth date started
+* @param[in] present date
+* @return Result of birth date started - present date
+*/
+
+
+#endif  /* #define AGE__CALCULATOR_OPERATIONS_H__ */
