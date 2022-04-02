@@ -1,1 +1,31 @@
+                              Age Calculator Android Project
+Project Overview:
+
+   Age calculator android project as the name indicate is used to calculate any persons present age and make analysis for future reference. 
+   To start using this android project, you need to fill the information of persons as contact list and get required information in just one click. 
+   Even not this, using the edit option you can makes changes to the saved data and if such data is not required, you may delete such contacts. 
+   To make your work more identical, you can add images to particular person’s profile, so that it can easily be recognized. 
+
+Existing System:
+       
+   Even though the existing system allows you to calculate the present age of any persons, but such application doesn’t allows you to make future analysis and gain other important information’s. 
+   Apart from these, there was no facility of saving their data permanently and make modification whenever required. 
+   Based on the date you entered, the system will only able to provide their present age, but only to provide, in how many days, such persons birthday will come. 
+   The system was not able to work as per modern requirements and contact listings was made limited. 
+   But, we have countless of friends, it’s because “har ek friend jaruri hota hai” and the need of proposed system arises. 
+
+Proposed System:
+
+   This new age calculator android project will not only able to save local data to your android phone, but it will also able to import the contact information’s of all your friends from various social networking sites. 
+   Thus it eliminated the need of entering data, if you have the power of internet.
+   Again this app will also able to work online and in offline mode. 
+   This app will provide the current age of requested contact, their next birthday and much more analysis with one click only. 
+   There are four keys provided with every contact by which you can manage their data easily. 
+   To make your complex task easier, the provided information format will also be available and by default, it will provide the age and analysis report in terms of days, hours, minutes, seconds combinations. 
+
+ Features of this project:
+ 
+  1.	This system will automatically integrate with server date and time or your local system time and information will be provided in the format of years, months, hours, days, and minutes and in seconds.
+  2.	You can add important events date for your particular friends by knowing their birthdays.
+  3.	To make your friends recognizable, you can add their profile pictures and other contact information’s.
 
